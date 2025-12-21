@@ -1,7 +1,8 @@
 
 👩‍💻 Divyanshi Gautam
 B.Tech (2nd Year) student at Banasthali Vidyapith, building industry-ready skills in data analysis, visualization, and Python-driven solutions with a focus on real-world applications.
-
+<br>
+<br>
 🧠 Technical Learning & Experience
 
 📌 Data Analysis
