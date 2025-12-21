@@ -24,7 +24,7 @@ Actively building industry-ready skills in **data analysis, visualization, and P
 - Work with request–response lifecycles and modular backend architectures  
 
 ### 📌 Programming Foundations  
-- Apply structured and logical problem-solving using **C and C++**  
+- Apply structured and logical problem-solving using **C**  
 - Write readable, performance-conscious, and maintainable code  
 
 ---
