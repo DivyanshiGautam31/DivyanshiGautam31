@@ -1,44 +1,44 @@
 # 👩‍💻 Divyanshi Gautam  
 
 ### B.Tech (2nd Year) student at Banasthali Vidyapith  
-Building industry-ready skills in **data analysis, visualization, and Python-driven solutions** with a strong focus on real-world applications.
+Actively building industry-ready skills in **data analysis, visualization, and Python-driven solutions**, with a strong focus on solving real-world problems through data.
 
 ---
 
 ## 🧠 Technical Learning & Experience  
 
 ### 📌 Data Analysis  
-- Clean, validate, and transform real-world datasets using **NumPy** and **Pandas**  
-- Apply structured analytical workflows to ensure accuracy and consistency  
+- Prepare, clean, and transform real-world datasets using **NumPy** and **Pandas**  
+- Follow structured analytical workflows to ensure data accuracy, consistency, and reliability  
 
 ### 📌 Data Visualization  
-- Create analytical visualizations using **Matplotlib** with emphasis on clarity and interpretation  
-- Use visuals as a medium to communicate insights effectively  
+- Develop clear and insight-focused visualizations using **Matplotlib**  
+- Use visual storytelling to support interpretation and data-driven decision-making  
 
 ### 📌 Interactive Dashboards  
-- Build interactive, data-driven dashboards using **Streamlit**  
-- Design workflows that improve usability and understanding  
+- Design and build interactive dashboards using **Streamlit**  
+- Organize analytical workflows to improve usability and user understanding  
 
 ### 📌 Backend Development & APIs  
-- Develop and integrate **RESTful APIs** using **Flask**  
-- Understand request–response cycles and modular backend architecture  
+- Design, develop, and integrate **RESTful APIs** using **Flask**  
+- Work with request–response lifecycles and modular backend architectures  
 
 ### 📌 Programming Foundations  
-- Apply structured problem-solving using **C and C++**  
-- Write performance-aware and readable code  
+- Apply structured and logical problem-solving using **C and C++**  
+- Write readable, performance-conscious, and maintainable code  
 
 ---
 
 ## 📈 Ongoing Development  
 
-- Learning **Plotly** and **Seaborn** for advanced data visualization  
-- Enhancing analytical depth through applied data analysis projects  
+- Expanding visualization capabilities using **Plotly** and **Seaborn**  
+- Strengthening analytical depth through hands-on data analysis projects  
 
 ---
 
 ## ❓ How do I approach my work?  
 
-> I focus on correctness, clarity, and structure in both code and analysis, aiming to build maintainable, interpretable, and extensible systems.
+> I prioritize clarity, correctness, and structure in both code and analysis, with the goal of building maintainable, interpretable, and scalable solutions.
 <!--
 **DivyanshiGautam31/DivyanshiGautam31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
