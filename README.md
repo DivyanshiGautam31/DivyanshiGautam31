@@ -1,64 +1,48 @@
-# 👩‍💻 Divyanshi Gautam  
+# 👩‍💻 Divyanshi Gautam
 
-### B.Tech (2nd Year) student at Banasthali Vidyapith  
-Actively building industry-ready skills in **data analysis, visualization, and Python-driven solutions**, with a strong focus on solving real-world problems through data.
+### B.Tech CSE (2nd Year) | Banasthali Vidyapith
+🎯 GSoC 2026 Aspirant | Python Developer | Data Science Enthusiast
 
-------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
-## 🧠 Technical Learning & Experience  
+## 🛠️ Technical Skills
 
-### 📌 Data Analysis  
-- Prepare, clean, and transform real-world datasets using **NumPy** and **Pandas**  
-- Follow structured analytical workflows to ensure data accuracy, consistency, and reliability  
+### 👩‍💻 Languages
+- Python | C | C++
 
-------------------------------------------------------------
+### 📊 Data Analysis & Visualization
+- NumPy | Pandas | Matplotlib | Streamlit
 
-### 📌 Data Visualization  
-- Develop clear and insight-focused visualizations using **Matplotlib**  
-- Use visual storytelling to support interpretation and data-driven decision-making  
+### ⚙️ Backend & APIs
+- FastAPI | RESTful APIs
 
-------------------------------------------------------------
+### 🐳 DevOps & Tools
+- Docker | Git | GitHub
 
-### 📌 Interactive Dashboards  
-- Design and build interactive dashboards using **Streamlit**  
-- Organize analytical workflows to improve usability and user understanding  
+### 🗄️ Database
+- SQL (MySQL) - In Progress
 
-------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
-### 📌 Backend Development & APIs  
-- Design, develop, and integrate **RESTful APIs** using **Flask**  
-- Work with request–response lifecycles and modular backend architectures  
+## 🌱 Currently Learning
+- SQL (MySQL)
+- MCP Clients & Servers (Model Context Protocol)
+- Machine Learning Foundations
 
-------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
-### 📌 Programming Foundations  
-- Apply structured and logical problem-solving using **C and C++**  
-- Write readable, performance-conscious, and maintainable code  
+## 🎯 Goals
+- 🏆 Google Summer of Code 2026 Aspirant
+- 🔨 Building end-to-end Data Science projects
+- 🤝 Contributing to Open Source
 
-------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 
-## 📈 Ongoing Development  
+## 📫 Connect With Me
+- 💼 LinkedIn: [www.linkedin.com/in/31divyanshigautam]
+- 📧 Email: [divyanshigautam9922@gmail.com]
 
-- Expanding visualization capabilities using **Plotly** and **Seaborn**  
-- Strengthening analytical depth through hands-on data analysis projects  
+--------------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------
-
-## ❓ How do I approach my work?  
-
-> I prioritize clarity, correctness, and structure in both code and analysis, with the goal of building maintainable, interpretable, and scalable solutions.
-
-<!--
-**DivyanshiGautam31/DivyanshiGautam31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ *"Clarity, correctness, and structure — in both code and life."*
+-------------------------------------------------------------------------------------------------------------------->
