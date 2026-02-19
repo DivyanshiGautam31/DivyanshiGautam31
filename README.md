@@ -39,8 +39,8 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [www.linkedin.com/in/31divyanshigautam]
-- 📧 Email: [divyanshigautam9922@gmail.com]
+- 💼 LinkedIn: www.linkedin.com/in/31divyanshigautam
+- 📧 Email: divyanshigautam9922@gmail.com
 
 --------------------------------------------------------------------------------------------------------------------
 
