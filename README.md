@@ -1,6 +1,6 @@
 # 👩‍💻 Divyanshi Gautam
 
-### B.Tech CSE (2nd Year) | Banasthali Vidyapith
+### B.Tech (2nd Year) | Banasthali Vidyapith
 🎯 GSoC 2026 Aspirant | Python Developer | Data Science Enthusiast
 
 ---------------------------------------------------------------------------------------------------------------------
