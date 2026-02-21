@@ -1,7 +1,7 @@
 # 👩‍💻 Divyanshi Gautam
 
 ### B.Tech (2nd Year) | Banasthali Vidyapith
-🎯 GSoC 2026 Aspirant | Python Developer | Data Science Enthusiast
+🎯 Python Developer | Data Science Enthusiast
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -32,7 +32,6 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 ## 🎯 Goals
-- 🏆 Google Summer of Code 2026 Aspirant
 - 🔨 Building end-to-end Data Science projects
 - 🤝 Contributing to Open Source
 
